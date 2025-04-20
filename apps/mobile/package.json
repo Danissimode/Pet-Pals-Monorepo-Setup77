@@ -1,0 +1,20 @@
+{
+  "name": "mobile",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "EXPO_OFFLINE=true expo start"
+  },
+  "dependencies": {
+    "@react-native-community/cli-server-api": "^18.0.0",
+    "@types/react": "^19.1.2",
+    "dotenv": "^16.5.0",
+    "expo": "^50.0.21",
+    "react": "^19.1.0",
+    "react-native": "^0.79.1",
+    "typescript": "^5.8.3"
+  },
+  "devDependencies": {
+    "@expo/cli": "^0.22.26"
+  }
+}
